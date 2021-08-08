@@ -24,11 +24,11 @@
 
   #### Screenshots
 
-  <img src="./assets/imgs/Screenshot (56)_li.jpg" alt="starting employee tracker on open">
+  <img src="./assets/imgs/Screenshot (56)_LI.jpg" alt="view all department roles and employees">
 
-  <img src="./assets/imgs/Screenshot (57)_li.jpg" alt="view all departments">
+  <img src="./assets/imgs/Screenshot (57)_LI.jpg" alt="add new departments and roles">
 
-  <img src="./assets/imgs/Screenshot (58)_li.jpg" alt="view all employees">
+  <img src="./assets/imgs/Screenshot (58)_LI.jpg" alt="add new employees">
 
   ## Languages
 
